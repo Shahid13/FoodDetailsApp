@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+
+
+        android:startColor="#C8ED5460"
+        android:endColor="#C8ED5460"
+        android:gradientRadius="@dimen/cardview_compat_inset_shadow"
+        android:angle="90"
+        android:type="linear"
+        android:centerY="@integer/material_motion_duration_short_2"
+        android:centerX="@integer/material_motion_duration_short_2"
+
+        >
+
+    </gradient>
+        <!--    android:endColor="#274e13"
+        android:centerColor="#478e23"
+          android:centerColor="#274e13"
+        android:startColor="@color/green"
+        -->
+
+
+</shape>
